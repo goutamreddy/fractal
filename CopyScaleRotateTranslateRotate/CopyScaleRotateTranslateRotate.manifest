@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"8b52abc8-61c9-4804-bfab-1b2094b4be73",
+	"author":	"Goutam Reddy",
+	"description":	{
+		"":	"Add-In to make copies of bodies but slightly manipulated (e.g. flower petals,  fractals, vertebrae, vases, etc...)"
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
