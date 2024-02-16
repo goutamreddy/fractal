@@ -1,2 +1,2 @@
 # fractal
-plugin code to Copy Scale Rotate Translate for Fusion 360
+Add-In to Copy Scale Rotate Translate for Fusion 360
